@@ -1,19 +1,28 @@
-### Hi there 👋
+<h1 align="center">
+  <a target="_blank">
+    <img src="https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/Earth.gif" width="24px" style="max-width:100%;">
+  </a>
+  Hey, there This Is Sanskar
+  <a target="_blank">
+    <img src="https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/Hi.gif" width="40px" />
+  </a>
+</h1>
+<br/>
+<br/>
+<a target="_blank">
+        <img align="right" height="250" width="400" alt="GIF" src="https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/code.gif">
+</a>
 
-<!--
-**Knighthawk-Leo/Knighthawk-Leo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Data Structures and Algorithms
+- 🌱 I’m currently learning Data Structures and Algorithms and Web Development
+- 👯 I’m looking to collaborate for my tech community <a href='www.groupofcode.com'>Group Of Code</a>
+- 🤔 I’m looking for help with React Js
+- 💬 Ask me about Python programming and automation using python, how to work with Google Cloud Resources , how to get started with opensource and communities , and DBMS.
+- 📫 How to reach me:<b>Linkedin<b>-<a href='https://www.linkedin.com/in/sanskar-dwivedi-a20201200/'>Sanskar Dwivedi</a>  Or <b>Instagram<b>-<a href='https://www.instagram.com/sanskardwived/'>@sanskardwived</a> 
+- 😄 Pronouns: he/his/him
+- ⚡ Fun fact:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">
 <code align="center">
       :Github Profile Stats:
