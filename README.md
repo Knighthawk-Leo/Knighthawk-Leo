@@ -10,7 +10,7 @@
 <br/>
 <br/>
 <a target="_blank">
-        <img align="right" height="250" width="400" alt="GIF" src="https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/code.gif">
+        <img align="right" height="250" width="400" alt="GIF" src="https://github.com/Knighthawk-Leo/Knighthawk-Leo/blob/main/potter.gif">
 </a>
 
 
