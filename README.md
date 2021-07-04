@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">
+<code align="center">
+      :Github Profile Stats:
+</code>
+</h1>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=PulkitSinghDev&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/pulkit0076)
