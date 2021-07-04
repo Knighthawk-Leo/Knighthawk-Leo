@@ -21,16 +21,7 @@
 - 💬 Ask me about Python programming and automation using python, how to work with Google Cloud Resources , how to get started with opensource and communities , and DBMS.
 - 📫 How to reach me:<b>Linkedin<b>-<a href='https://www.linkedin.com/in/sanskar-dwivedi-a20201200/'>Sanskar Dwivedi</a>  Or <b>Instagram<b>-<a href='https://www.instagram.com/sanskardwived/'>@sanskardwived</a> 
 - 😄 Pronouns: he/his/him
-- ⚡ Fun fact:
-
-<h1 align="center">
-<code align="center">
-      :Github Profile Stats:
-</code>
-</h1>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Knighthawk-Leo&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/Knighthawk-Leo)
-  
+- ⚡ About Me: Potter Head⚡ and a Bibliomaniac
   <summary>
   <h1 align="center"><a target="_blank">
     <img src="https://i.pinimg.com/originals/73/ed/50/73ed50d9bfde8459aa2407f561224508.png" width="40px" />
@@ -40,6 +31,15 @@
     <img src="https://i.pinimg.com/originals/73/ed/50/73ed50d9bfde8459aa2407f561224508.png" width="40px" />
   </a></h1>
 </summary>
+<h1 align="center">
+<code align="center">
+      :Github Profile Stats:
+</code>
+</h1>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Knighthawk-Leo&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/Knighthawk-Leo)
+  
+
   <p align="center">
   <a href="https://github.com/Knighthawk-Leo">
     <img height="150" width="175" src="https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/left.png">
@@ -86,4 +86,27 @@
 <br/>
 
 #
-<details close="">
+
+  
+  
+  
+  
+  
+  #
+<!--<details close="">
+<summary>
+  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> 
+  <strong>Github Stats : </strong>
+</summary>
+<br> -->
+  
+<p align="center">
+<a href="https://github.com/Knighthawk-Leo">
+  <img width="65%" src="https://github-readme-stats.vercel.app/api?username=Knighthawk-Leo&show_icons=true&theme=tokyonight" />
+  <img width="27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Knighthawk-Leo&count_private=true&theme=tokyonight" />
+</a>
+</p>
+</details>
+<br>
+
+#
