@@ -68,9 +68,8 @@
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
 <code><img height="40" width="40" src="https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/google-cloud.png"></code>
-<!--  
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-  
+<code><img height="40" width="40" src="https://github.com/Knighthawk-Leo/Knighthawk-Leo/blob/main/vscode.png"></code>
+ <!-- 
 <code><img height="40" width="40" src="https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/tensorflow-removebg-preview.png"></code>
   
 <code><img height="40" width="40" src="https://www.flaticon.com/premium-icon/icons/svg/720/720269.svg"></code>
@@ -110,6 +109,15 @@
 <br>
 
   
-  <h1 align="center">-:About Me:-</h1>
+ <h1 align="center">-:About Me:-</h1>
 <h4 align="center">A Btech CSE Student  who is a Passionate contributor towards <b>communities</b>, <b>Open Source</b> & <b>Hackathons</b>, Who is Pursuing Knowledge to excel in future endeavor and helping people to enhance there learnings through providing them with practical experience and Knowledge.</h4><br>
-#
+
+ <div align="center">
+
+### Show some ❤️ by starring some of the repositories & following me!
+
+</div>
+  
+  
+  
+  ![](https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/footer.png)
