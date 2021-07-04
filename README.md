@@ -29,4 +29,22 @@
 </code>
 </h1>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=PulkitSinghDev&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/pulkit0076)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Knighthawk-Leo&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/Knighthawk-Leo)
+  
+  <summary>
+  <h1 align="center"><a target="_blank">
+    <img src="https://i.pinimg.com/originals/73/ed/50/73ed50d9bfde8459aa2407f561224508.png" width="40px" />
+  </a>
+  My Octocat
+  <a target="_blank">
+    <img src="https://i.pinimg.com/originals/73/ed/50/73ed50d9bfde8459aa2407f561224508.png" width="40px" />
+  </a></h1>
+</summary>
+  <p align="center">
+  <a href="https://github.com/Knighthawk-Leo">
+    <img height="150" width="175" src="https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/left.png">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Knighthawk-Leo&theme=dark&hide_border=true"/>
+    <img height="150" width="175" src="https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/right.png">
+  </a>
+</p>
+<h1></h1>
