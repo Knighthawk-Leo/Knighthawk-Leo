@@ -10,7 +10,7 @@
 <br/>
 <br/>
 <a target="_blank">
-        <img align="right" height="250" width="400" alt="GIF" src="https://github.com/Knighthawk-Leo/Knighthawk-Leo/blob/main/potter.gif">
+        <img align="right" height="300" width="300" alt="GIF" src="https://github.com/Knighthawk-Leo/Knighthawk-Leo/blob/main/house.png">
 </a>
 
 
@@ -109,4 +109,7 @@
 </details>
 <br>
 
+  
+  <h1 align="center">-:About Me:-</h1>
+<h4 align="center">A Btech CSE Student  who is a Passionate contributor towards <b>communities</b>, <b>Open Source</b> & <b>Hackathons</b>, Who is Pursuing Knowledge to excel in future endeavor and helping people to enhance there learnings through providing them with practical experience and Knowledge.</h4><br>
 #
