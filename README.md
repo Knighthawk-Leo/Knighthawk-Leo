@@ -33,7 +33,7 @@
   </summary>
   <h1 align="center">
   <code align="center">
-   :Github Profile Stats:
+  :Github Profile Stats:
   </code>
   </h1>
   
