@@ -26,14 +26,16 @@
     <h1 align="center"><a target="_blank">
       <img src="https://i.pinimg.com/originals/73/ed/50/73ed50d9bfde8459aa2407f561224508.png" width="40px" />
     </a>
-  My Octocat
+        My Octocat
+  
     <a target="_blank">
       <img src="https://i.pinimg.com/originals/73/ed/50/73ed50d9bfde8459aa2407f561224508.png" width="40px" />
     </a></h1>
   </summary>
   <h1 align="center">
   <code align="center">
-  :Github Profile Stats:
+      :Github Profile Stats:
+  
   </code>
   </h1>
   
