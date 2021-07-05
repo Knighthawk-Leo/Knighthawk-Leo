@@ -39,13 +39,13 @@
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=Knighthawk-Leo&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/Knighthawk-Leo)
     
-  <p align="center">
-    <a href="https://github.com/Knighthawk-Leo">
-      <img height="150" width="175" src="https://github.com/Knighthawk-Leo/Knighthawk-Leo/blob/main/left.png">
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Knighthawk-Leo&theme=dark&hide_border=true"/>
-      <img height="150" width="175" src="https://github.com/Knighthawk-Leo/Knighthawk-Leo/blob/main/right.png">
-    </a>
-  </p>
+<p align="center">
+  <a href="https://github.com/Knighthawk-Leo">
+    <img height="150" width="175" src="https://github.com/Knighthawk-Leo/Knighthawk-Leo/blob/main/left.png">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Knighthawk-Leo&theme=dark&hide_border=true"/>
+    <img height="150" width="175" src="https://github.com/Knighthawk-Leo/Knighthawk-Leo/blob/main/right.png">
+  </a>
+</p>
   <h1></h1>
     
     
