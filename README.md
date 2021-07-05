@@ -43,7 +43,7 @@
     
 <p align="center">
   <a href="https://github.com/Knighthawk-Leo">
-    <img height="150" width="175" src="https://github.com/Knighthawk-Leo/Knighthawk-Leo/blob/main/left.png">
+   <img height="150" width="175" src="https://github.com/Knighthawk-Leo/Knighthawk-Leo/blob/main/left.png">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Knighthawk-Leo&theme=dark&hide_border=true"/>
     <img height="150" width="175" src="https://github.com/Knighthawk-Leo/Knighthawk-Leo/blob/main/right.png">
   </a>
