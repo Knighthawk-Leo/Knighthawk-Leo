@@ -15,7 +15,7 @@
   
   
   - 🔭 I’m currently working on Data Structures and Algorithms
-  - 🌱 I’m currently learning Data Structures and Algorithms and Web Development
+  - 🌱 I’m currently learning Data Structures and Algorithms.
   - 👯 I’m looking to collaborate for my tech community <a href='www.groupofcode.com'>Group Of Code</a>
   - 🤔 I’m looking for help with React Js
   - 💬 Ask me about Python programming and automation using python, how to work with Google Cloud Resources , how to get started with opensource and communities , and DBMS.
