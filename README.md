@@ -16,7 +16,7 @@
   
   - 🔭 I’m currently working on Data Structures and Algorithms
   - 🌱 I’m currently learning Data Structures and Algorithms.
-  - 👯 I’m looking to collaborate for my tech community <a href='https://www.groupofcode.com/'>Group Of Code</a>
+  - 👯 I’m looking to collaborate for my tech community <a href='https://www.groupofcode.com/' target=blank>Group Of Code</a>
   - 🤔 I’m looking for help with React Js
   - 💬 Ask me about Python programming and automation using python, how to work with Google Cloud Resources , how to get started with opensource and communities , and DBMS.
   - 📫 How to reach me:<b>Linkedin<b>-<a href='https://www.linkedin.com/in/sanskar-dwivedi-a20201200/'>Sanskar Dwivedi</a>  Or <b>Instagram<b>-<a href='https://www.instagram.com/sanskardwived/'>@sanskardwived</a> 
