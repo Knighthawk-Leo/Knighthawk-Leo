@@ -2,7 +2,7 @@
     <a target="_blank">
       <img src="https://github.com/Knighthawk-Leo/Knighthawk-Leo/blob/main/Earth.gif" width="24px" style="max-width:100%;">
     </a>
-    Hey, there This Is Sanskar
+    Hey, there 
     <a target="_blank">
       <img src="https://github.com/Knighthawk-Leo/Knighthawk-Leo/blob/main/Hi.gif" width="40px" />
     </a>
