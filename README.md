@@ -22,17 +22,27 @@ I help ideas turn into working, reliable, and future-ready systems.
     
 I don’t just wire things up — I make sure they think, respond, and scale.
 ```
-<h3 align="center"> 🛠 Experience & Vision </h3>
+
+<h3 align="center">🛠 Experience & Vision</h3>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://user-images.githubusercontent.com/2702526/45913619-818f1100-be53-11e8-8138-6ddfe42e15af.gif" alt="Screencast" width="500">
+    </td>
+    <td>
 
 Over the years, I’ve worked across different industries—each one throwing a unique set of challenges at the backend. Some needed speed, some needed flexibility, and some just needed someone who could make sense of chaos. I’ve seen APIs disappear overnight, models change without warning, and data that made no sense — and I’ve grown to love that kind of unpredictability.
 
 - 🧑‍💻 Freelancing taught me how to take **ownership** and deliver without waiting for permission  
 - 🚀 Startups taught me how to **build fast**, stay flexible, and think beyond just code  
-- 🛰️ Research labs taught me how to work with **uncertain data** and long-term impact in mind
+- 🛰️ Research labs taught me how to work with **uncertain data** and long-term impact in mind  
 
 Right now, I'm focused on building backends for AI-powered systems — where the logic needs to evolve just like the data it's built on.
 
----
+   
+  </tr>
+</table>
 
 <h3 align="center"> 🏭 Industries I’ve Worked In </h3>
 
