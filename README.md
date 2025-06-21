@@ -28,7 +28,7 @@ I don’t just wire things up — I make sure they think, respond, and scale.
 <table>
   <tr>
     <td>
-      <img src="https://user-images.githubusercontent.com/2702526/45913619-818f1100-be53-11e8-8138-6ddfe42e15af.gif" alt="Screencast" width="500">
+      <img src="https://user-images.githubusercontent.com/2702526/45913619-818f1100-be53-11e8-8138-6ddfe42e15af.gif" alt="Screencast" width="300">
     </td>
     <td>
 
