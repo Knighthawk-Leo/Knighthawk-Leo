@@ -1,4 +1,4 @@
- <p align="center"> <img src="https://media.licdn.com/dms/image/v2/D5616AQGrB66KQ5ssqg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1709761664416?e=1755734400&v=beta&t=bdDfXWL19f1lOvUTQBTnyMplBfNE-CVaIPJKDhahLlc" height="250" /> </p>
+ 
 <h1 align="center"> Hey there <img src="https://github.com/Knighthawk-Leo/Knighthawk-Leo/blob/main/Hi.gif" width="40px" /> , I’m Sanskar Dwivedi </h1>
 <p align="center">
   With a passion for clean architecture and a love for solving complex backend challenges,  
