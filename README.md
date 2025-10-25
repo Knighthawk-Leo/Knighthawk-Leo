@@ -3,7 +3,7 @@
 <p align="center">
   With a passion for clean architecture and a love for solving complex backend challenges,  
   I specialize in turning raw ideas into fast, reliable, and scalable systems.  
-  From early prototypes to production-ready infrastructures — I’ve done it all, and I’m just getting started.
+  From early prototypes to production-ready infrastructures  I’ve done it all, and I’m just getting started.
 </p>
 <h3 align="center"> Building Smarter Backends That Scale </h3>
 
