@@ -1,5 +1,10 @@
  
-<h1 align="center"> Hey there <img src="https://github.com/Knighthawk-Leo/Knighthawk-Leo/blob/main/Hi.gif" width="40px" /> , I’m Sanskar Dwivedi </h1>
+<!-- <h1 align="center"> Hey there <img src="https://github.com/Knighthawk-Leo/Knighthawk-Leo/blob/main/Hi.gif" width="40px" /> , I’m Sanskar Dwivedi </h1> -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Hoodies+can+build+anything.;And+I+intend+to+prove+it." />
+</p>
+
 <p align="center">
   With a passion for clean architecture and a love for solving complex backend challenges,  
   I specialize in turning raw ideas into fast, reliable, and scalable systems.  
